@@ -1,3 +1,77 @@
-body{
+body {
     background-color: white;
+}
+
+
+
+svg {
+
+    color: #000115;
+}
+
+.dot {
+    height: 48px;
+    width: 48px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.justify-content {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-size{
+
+    width: 425px;
+    height: 80px;
+}
+.margin-dot{
+    margin-right: 27px;
+    margin-top: 15px;
+    margin-bottom: 17px;
+}
+
+.margin-svg{
+
+    margin-left: 27px;
+    margin-top: 35px;
+}
+
+.spec-text{
+
+    margin-left: 27px;
+    margin-top: 10px;
+    font-family:Poppins;
+    font-size: 20px;
+    opacity: 65%;
+}
+
+.spec-text2{
+    font-size: 30px;
+    margin-left: 27px;
+    margin-top: 10px;
+}
+
+.search-bar{
+  margin-left: 27px;
+  margin-right: 10px;
+ 
+
+}
+
+.search-button{
+
+    width: 64px;
+    height: 56px;
+    margin-right: 27px;
+    border: solid 1px #400D54;
+    background-color: #400D54;
+    border-radius: 5px;
+}
+.svg2{
+
+    color: #FFFFFF;
+
+    margin: 19px 21px;
 }
